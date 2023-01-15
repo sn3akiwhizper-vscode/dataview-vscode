@@ -1,0 +1,3 @@
+[submodule "obsidian-dataview-master"]
+	path = obsidian-dataview-master
+	url = https://github.com/blacksmithgu/obsidian-dataview.git
